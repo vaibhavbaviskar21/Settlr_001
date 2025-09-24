@@ -13,7 +13,7 @@ export default function Header({ user, onAuthClick }: HeaderProps) {
         <div className="flex justify-between items-center h-16">
           <div className="flex items-center">
             <Scale className="h-8 w-8 text-blue-600 mr-3" />
-            <span className="text-2xl font-bold text-gray-900">ResolveAI</span>
+            <span className="text-2xl font-bold text-gray-900">Settlr</span>
           </div>
           
           <nav className="hidden md:flex space-x-8">
